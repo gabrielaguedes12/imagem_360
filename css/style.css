@@ -1,18 +1,14 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
-    background-color: #ddd;
+body {
+    background-color: #ebebeb;
 }
 
-.container{
-    width: 100%;
-}
-
-.container img{
+.container > img {
     width: 100%;
     -webkit-user-drag: none;
 }
