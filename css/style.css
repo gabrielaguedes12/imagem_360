@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ddd;
+}
+
+.container{
+    width: 100%;
+}
+
+.container img{
+    width: 100%;
+    -webkit-user-drag: none;
+}
